@@ -21,7 +21,9 @@ def main():
     )
     args = parser.parse_args()
     if sys.version_info < (3, 10):
-        print("UltimateSEO needs Python 3.10 or newer. Python 3.12 is recommended.", file=sys.stderr)
+        print(
+            "UltimateSEO needs Python 3.10 or newer. Python 3.12 is recommended.", file=sys.stderr
+        )
         return 2
     root = Path(__file__).resolve().parents[1]
     env = args.venv.expanduser().absolute() if args.venv else root / ".venv"
