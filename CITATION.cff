@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If UltimateSEO supports your work, please cite this repository."
+title: "UltimateSEO: AI SEO skill for website audits, content and backlinks"
+type: software
+version: 3.0.0
+authors:
+  - family-names: Ashraf
+    given-names: Muhammad Tahir
+    website: https://beyondtahir.com
+repository-code: https://github.com/Ultimate-khan/ultimateseo
+url: https://github.com/Ultimate-khan/ultimateseo
+license: MIT
+keywords:
+  - SEO
+  - AI SEO skill
+  - answer engine optimization
+  - generative engine optimization
+  - website audits
+  - content strategy
+  - web crawling
+  - reputation
+  - backlinks
