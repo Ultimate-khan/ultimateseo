@@ -1,6 +1,6 @@
 # Reporting a security issue
 
-For a suspected vulnerability, use [GitHub private vulnerability reporting](https://github.com/Ultimate-khan/ultimateseo/security/advisories/new), or contact the project owner through the contact page at [beyondtahir.com](https://beyondtahir.com). Share the affected version, a minimal reproduction and the impact. Avoid posting credentials or an exploitable private-site example in a public issue.
+For a suspected vulnerability, use [GitHub private vulnerability reporting](https://github.com/Ultimate-khan/ultimateseo/security/advisories/new), or contact **Bilal Khan — Ultimate-khan** through [the project repository](https://github.com/Ultimate-khan/ultimateseo). Share the affected version, a minimal reproduction and the impact. Avoid posting credentials or an exploitable private-site example in a public issue.
 
 UltimateSEO checks destination addresses, validates TLS, limits response sizes and constrains the crawl frontier. Browser dependencies can use additional public hosts. The `--allow-private` option deliberately changes the address boundary for local or staging environments. The `--robots ignore` option changes crawl-policy handling; it does not provide authentication or remove a server-side access denial.
 

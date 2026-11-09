@@ -192,4 +192,4 @@ See the [3.0.0 release notes](CHANGELOG.md#300--ultimateseo-professionally-rebui
 
 UltimateSEO is a rebranded and revised edition of the open-source BeyondSEO project. The original MIT license and copyright notice are retained in [LICENSE](LICENSE). See [third-party notices](THIRD_PARTY_NOTICES.md) for dependency information.
 
-**Created and maintained by Muhammad Tahir Ashraf — Beyond Tahir.**
+**Created and maintained by Bilal Khan — Ultimate-khan.**

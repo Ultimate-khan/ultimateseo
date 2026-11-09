@@ -50,7 +50,7 @@ def render_page(page, crawler):
             try:
                 browser = p.chromium.launch(headless=c.headless)
                 context = browser.new_context(
-                    user_agent="UltimateSEO/3.0 (Chromium; +https://beyondtahir.com)",
+                    user_agent="UltimateSEO/3.0 (Chromium; +https://github.com/Ultimate-khan/ultimateseo)",
                     viewport={"width": 1440, "height": 1000},
                     locale="en-US",
                     service_workers="block",

@@ -10,7 +10,7 @@ readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE", "THIRD_PARTY_NOTICES.md"]
 requires-python = ">=3.10"
-authors = [{name = "Muhammad Tahir Ashraf — Beyond Tahir"}]
+authors = [{name = "Bilal Khan — Ultimate-khan"}]
 dependencies = ["beautifulsoup4>=4.12,<5", "colorama>=0.4.6,<0.5"]
 keywords = ["seo", "ai-seo", "aeo", "geo", "website-audit", "backlinks", "content-strategy", "web-crawler"]
 classifiers = [
@@ -34,7 +34,7 @@ ultimateseo = "beyondseo.cli:main"
 beyondseo = "beyondseo.cli:main"  # Compatibility alias for existing installations.
 
 [project.urls]
-Author = "https://beyondtahir.com"
+Author = "https://github.com/Ultimate-khan"
 Repository = "https://github.com/Ultimate-khan/ultimateseo"
 Documentation = "https://github.com/Ultimate-khan/ultimateseo/blob/main/docs/README.md"
 Issues = "https://github.com/Ultimate-khan/ultimateseo/issues"

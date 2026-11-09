@@ -55,6 +55,6 @@ UltimateSEO 3.0 combines coordinated SEO specialists, optional read-only Google 
 
 [Development](development.md) · [Release notes](../CHANGELOG.md#300--ultimateseo-professionally-rebuilt) · [Publishing guide](development.md#publish-ultimateseo-to-github) · [Contributing](../CONTRIBUTING.md) · [Security](../SECURITY.md) · [Changelog](../CHANGELOG.md) · [MIT license](../LICENSE) · [Dependency notices](../THIRD_PARTY_NOTICES.md)
 
-Questions about expected behavior belong in a [GitHub issue](https://github.com/Ultimate-khan/ultimateseo/issues). Include the version, command, environment and a small redacted reproduction. Contact [Beyond Tahir](https://beyondtahir.com) for consulting, training or private business context.
+Questions about expected behavior belong in a [GitHub issue](https://github.com/Ultimate-khan/ultimateseo/issues). Include the version, command, environment and a small redacted reproduction. Contact [Bilal Khan — Ultimate-khan](https://github.com/Ultimate-khan) for project and maintenance enquiries.
 
 - [Deep research and fair competitor comparisons](deep-research.md): browser-first discovery, shared budgets, keyword/AI-readiness analysis and evidence-supported standing.

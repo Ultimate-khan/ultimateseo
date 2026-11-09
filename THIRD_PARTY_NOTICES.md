@@ -20,3 +20,7 @@ and HyperFrames renderer. These artwork tools are not required by the SEO engine
 included in the skill upload. Original character artwork and native report output are
 identified in [the media notes](https://github.com/Ultimate-khan/ultimateseo/blob/main/media/README.md); the dated Academy performance capture
 was supplied with the owner's publication permission.
+
+## Original project attribution
+
+UltimateSEO is a revised and rebranded edition of BeyondSEO, originally created by **Muhammad Tahir Ashraf — Beyond Tahir**. The original copyright and MIT permission notice are preserved in [LICENSE](LICENSE).

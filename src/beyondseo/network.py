@@ -21,7 +21,7 @@ from urllib.request import getproxies_environment, proxy_bypass_environment
 
 from .diagnostics import challenge_signal, classify_access
 
-USER_AGENT = "UltimateSEO/3.0 (+https://beyondtahir.com)"
+USER_AGENT = "UltimateSEO/3.0 (+https://github.com/Ultimate-khan/ultimateseo)"
 UNRESERVED = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-._~"
 TRACKING = {"gclid", "dclid", "fbclid", "msclkid", "_ga", "mc_cid", "mc_eid"}
 ASSETS = re.compile(
