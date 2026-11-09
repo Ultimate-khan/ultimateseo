@@ -1,9 +1,9 @@
 # UltimateSEO brand assets
 
-The product mark combines a rising performance motif with a clear UltimateSEO wordmark. It represents evidence-led growth without promising rankings or outcomes.
+The product mark combines a U-shaped search lens with a clear UltimateSEO wordmark. It represents discovery, evidence and useful action without promising rankings or outcomes.
 
-- `ultimateseo-logo.png`: horizontal mark and wordmark on a transparent background.
-- `ultimateseo-banner.png`: documentation masthead with the line “Evidence-led SEO. Built for action.”
+- `ultimateseo-logo.png`: horizontal search mark and wordmark on a transparent background.
+- `ultimateseo-banner.png`: documentation masthead with the line “Evidence in. Better search decisions out.”
 
 Use the transparent logo on a light field. Keep its proportions and give it clear space on every side. The white masthead is suitable for a README in either a light or dark viewer. Avoid shadows, recoloring or placing the dark wordmark on a dark background.
 
