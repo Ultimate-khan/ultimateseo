@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ultimate-logo.jpeg" alt="Ultimate logo" width="160">
+</p>
+
 ![UltimateSEO — evidence-led search intelligence](assets/ultimateseo-banner.png)
 
 # UltimateSEO
