@@ -192,6 +192,11 @@ A format check is not proof of host registration, live website access, or a succ
 
 See the [3.0.0 release notes](CHANGELOG.md#300--ultimateseo-professionally-rebuilt) and [GitHub publishing guide](docs/development.md#publish-ultimateseo-to-github) for the release checklist and verification steps.
 
+## The Ultimate skills family
+
+- **UltimateSEO** (this repo) — evidence-led SEO audits, strategy, content, and reporting workflows
+- **[ultimate-pr-review](https://github.com/Ultimate-khan/ultimate-pr-review)** — senior-engineer PR reviews with a deterministic prescan and CI gate
+
 ## License and attribution
 
 UltimateSEO is a rebranded and revised edition of the open-source BeyondSEO project. The original MIT license and copyright notice are retained in [LICENSE](LICENSE). See [third-party notices](THIRD_PARTY_NOTICES.md) for dependency information.
